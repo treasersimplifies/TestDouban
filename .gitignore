@@ -1,2 +1,5 @@
 DS_Store
 config.json
+geckodriver.log
+trash.py
+__pycache__
